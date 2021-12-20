@@ -1,7 +1,7 @@
 # About
 This app was created by Joao Pimenta Giudice on August 2021 precisely to inhance player's experience in the Commander MTG Format.
 
-# Introduction to the Azurba's MTG Panel
+# Introduction to the Azurba's MTG Panel App
 
 At a glance, Magic The Gathering (MTG) is a trading card game filled with strategic battles and unique card decks. It is one of the most playable and complex card game there is. It has many formats but the most popular is the Commander format. 
 
