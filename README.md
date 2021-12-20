@@ -10,6 +10,11 @@ At a glance, Magic The Gathering (MTG) is a trading card game filled with strate
 
 Commander is an exciting, unique way to play Magic that is all about awesome legendary creatures, big plays, and battling with your friends in epic multiplayer games! This app was designed specifically for this format. Despite the fact that the format has no limit in how many players can play, it is usually played from 2 to 6 player. 
 
+
+# Video
+
+https://user-images.githubusercontent.com/58566178/146824285-bbe33898-97dd-40b8-807d-7384bfe8e62a.mp4
+
 # Interface
 The app has a simple and extremelly easy menu that will be loaded when the app first opens.
 
@@ -34,10 +39,6 @@ The app supports 1 to 6 players, where the 1-player-menu is to keep track only o
 
 ![base](images/4-Player_Image.jpg)
 
-
-# Video
-
-https://user-images.githubusercontent.com/58566178/146824285-bbe33898-97dd-40b8-807d-7384bfe8e62a.mp4
 
 
 
