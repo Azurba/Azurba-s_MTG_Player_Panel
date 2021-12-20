@@ -3,7 +3,7 @@ This app was created by Joao Pimenta Giudice on August 2021 precisely to inhance
 
 # Introduction to the Azurba's MTG Panel App
 
-At a glance, Magic The Gathering (MTG) is a trading card game filled with strategic battles and unique card decks. It is one of the most playable and complex card game there is. It has many formats but the most popular is the Commander format. 
+At a glance, Magic The Gathering (MTG) is a trading card game filled with strategic battles and unique card decks. It is one of the most playable and complex card game there is. It has many formats but the most popular is the Commander format. At the end of this file, in addition to the images, there is a video of the app being used.
 
 *Figure 1: How the app interacts with the card game*
 ![base](/How-it-works.PNG)
@@ -33,3 +33,12 @@ The app supports 1 to 6 players, where the 1-player-menu is to keep track only o
 *Figure 5: 4-player panel*
 
 ![base](/4-Player_Image.jpg)
+
+
+# Video
+
+https://user-images.githubusercontent.com/58566178/146824285-bbe33898-97dd-40b8-807d-7384bfe8e62a.mp4
+
+
+
+
